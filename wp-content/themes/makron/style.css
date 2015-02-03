@@ -33,6 +33,11 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	vertical-align: baseline;
 }
 
-.post-title{
-	color: #2abb9c;
+.Basic-46{
+			z-index: 1000;
+			position: fixed;
+			width: 100%;
+			padding: 1em 0;
+			background-color: #ffffff;
 			}
+

@@ -20,6 +20,7 @@
 
 	<style>
 
+
 		a.menu-element:hover{
 			font-family:"Helvetica Neue";
 			color:#FFF;
@@ -61,10 +62,8 @@
     <header class="mak-header mak-cf" role="banner">
 	
 
-	<div class="Basic_46" style="height:80px;">
-			<a class="menu-element selected" title="Home" href="http://blog.mobiloptim.com"></a>
-			<a class="menu-element selected" title="Create my website" href="https://mobiloptim.com/"></a>
-			<a class="menu-element selected" title="Contact" href="https://www.linkedin.com/company/mobiloptim"></a>
+	<div class="Basic_46" style="height:45px;">
+		
 	<?php do_action ('wp_menubar', 'Top Nav'); ?>
 	</div>
 		<div class="banner">
