@@ -1,0 +1,610 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Makron 1.0.0\n"
+"POT-Creation-Date: 2014-05-30 00:42+0100\n"
+"PO-Revision-Date: 2014-05-30 00:42+0100\n"
+"Last-Translator: Manoz <manoz@outlook.com>\n"
+"Language-Team: Makron <charlie@athemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Manoz\\Desktop\\Work\\Charlie Livingston"
+"\\Dev\\makron\n"
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/404.php:15
+msgid "page not found"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/404.php:17
+#: Livingston\Dev\makron/templates/content-nope.php:22
+msgid "The page you were trying to reach wasn't there"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/404.php:18
+#: Livingston\Dev\makron/templates/content-nope.php:23
+msgid "Maybe you can try with the search form below?"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/archive.php:18
+#: Livingston\Dev\makron/category.php:18
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/author.php:35
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/author.php:49
+msgid " links:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:19
+#: Livingston\Dev\makron/comments.php:31
+msgid "Comment Navigation"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:20
+#: Livingston\Dev\makron/comments.php:32
+msgid "Older Comments"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:21
+#: Livingston\Dev\makron/comments.php:33
+msgid "Newer Comments"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:49
+msgid "Name/Pseudo"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:49
+msgid "Your name/nickname..."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:50
+msgid "Email"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:50
+msgid "Your email address..."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:51
+msgid "Website/blog"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:51
+msgid "Your website/blog URL..."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:56
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:58
+msgid "Log In To Comment"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:62
+msgid "Cancel"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/comments.php:63
+msgid "Send"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:26
+#: Livingston\Dev\makron/templates/content-audio.php:27
+#: Livingston\Dev\makron/templates/content-gallery.php:27
+#: Livingston\Dev\makron/templates/content-image.php:27
+#: Livingston\Dev\makron/templates/content-link.php:19
+#: Livingston\Dev\makron/templates/content-status.php:27
+#: Livingston\Dev\makron/templates/content-video.php:27
+#: Livingston\Dev\makron/templates/content.php:27
+msgid "Published by "
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:26
+#: Livingston\Dev\makron/templates/content-audio.php:27
+#: Livingston\Dev\makron/templates/content-gallery.php:27
+#: Livingston\Dev\makron/templates/content-image.php:27
+#: Livingston\Dev\makron/templates/content-link.php:19
+#: Livingston\Dev\makron/templates/content-status.php:27
+#: Livingston\Dev\makron/templates/content-video.php:27
+#: Livingston\Dev\makron/templates/content.php:27
+msgid "See other posts by "
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:30
+#: Livingston\Dev\makron/templates/content-audio.php:31
+#: Livingston\Dev\makron/templates/content-gallery.php:31
+#: Livingston\Dev\makron/templates/content-image.php:31
+#: Livingston\Dev\makron/templates/content-link.php:23
+#: Livingston\Dev\makron/templates/content-status.php:31
+#: Livingston\Dev\makron/templates/content-video.php:31
+#: Livingston\Dev\makron/templates/content.php:37
+msgid "No comments yet"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:30
+#: Livingston\Dev\makron/templates/content-audio.php:31
+#: Livingston\Dev\makron/templates/content-gallery.php:31
+#: Livingston\Dev\makron/templates/content-image.php:31
+#: Livingston\Dev\makron/templates/content-link.php:23
+#: Livingston\Dev\makron/templates/content-status.php:31
+#: Livingston\Dev\makron/templates/content-video.php:31
+#: Livingston\Dev\makron/templates/content.php:37
+msgid "1 comment"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:30
+#: Livingston\Dev\makron/templates/content-audio.php:31
+#: Livingston\Dev\makron/templates/content-gallery.php:31
+#: Livingston\Dev\makron/templates/content-image.php:31
+#: Livingston\Dev\makron/templates/content-link.php:23
+#: Livingston\Dev\makron/templates/content-status.php:31
+#: Livingston\Dev\makron/templates/content-video.php:31
+#: Livingston\Dev\makron/templates/content.php:37
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:30
+#: Livingston\Dev\makron/templates/content-audio.php:31
+#: Livingston\Dev\makron/templates/content-gallery.php:31
+#: Livingston\Dev\makron/templates/content-image.php:31
+#: Livingston\Dev\makron/templates/content-link.php:23
+#: Livingston\Dev\makron/templates/content-status.php:31
+#: Livingston\Dev\makron/templates/content-video.php:31
+#: Livingston\Dev\makron/templates/content.php:37
+msgid "Comments are closed"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:34
+#: Livingston\Dev\makron/templates/content-audio.php:35
+#: Livingston\Dev\makron/templates/content-gallery.php:35
+#: Livingston\Dev\makron/templates/content-image.php:35
+#: Livingston\Dev\makron/templates/content-link.php:27
+#: Livingston\Dev\makron/templates/content-status.php:35
+#: Livingston\Dev\makron/templates/content-video.php:35
+#: Livingston\Dev\makron/templates/content.php:41
+msgid "Permalink to "
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:34
+#: Livingston\Dev\makron/templates/content-audio.php:35
+#: Livingston\Dev\makron/templates/content-gallery.php:35
+#: Livingston\Dev\makron/templates/content-image.php:35
+#: Livingston\Dev\makron/templates/content-link.php:27
+#: Livingston\Dev\makron/templates/content-status.php:35
+#: Livingston\Dev\makron/templates/content-video.php:35
+#: Livingston\Dev\makron/templates/content.php:41
+msgid "Permalink"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:37
+#: Livingston\Dev\makron/templates/content-audio.php:38
+#: Livingston\Dev\makron/templates/content-gallery.php:38
+#: Livingston\Dev\makron/templates/content-image.php:38
+#: Livingston\Dev\makron/templates/content-link.php:30
+#: Livingston\Dev\makron/templates/content-status.php:38
+#: Livingston\Dev\makron/templates/content-video.php:38
+#: Livingston\Dev\makron/templates/content.php:44
+msgid "Edit"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:53
+msgid "Parent post:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:54
+msgid "Full width image:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:62
+msgid "Previous Image"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/image.php:63
+msgid "Next Image"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/comments.php:24
+#, php-format
+msgid "<cite class=\"author\">%s</cite>"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/comments.php:26
+msgid "Reply"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/comments.php:53
+msgid "Anonymous"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/customizer.php:24
+msgid "Makron Layout"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/customizer.php:26
+msgid "Choose your theme's layout."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/customizer.php:81
+msgid "Theme layout"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/customizer.php:84
+#: Livingston\Dev\makron/inc/customizer.php:164
+msgid "Left sidebar"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/customizer.php:85
+#: Livingston\Dev\makron/inc/customizer.php:165
+msgid "Right sidebar"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/customizer.php:97
+msgid "Header menu color"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/customizer.php:110
+msgid "Header background color"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/customizer.php:123
+msgid "Footer background color"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/init.php:22
+msgid "Main navigation"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/init.php:23
+msgid "Footer social navigation"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/init.php:57
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/init.php:58
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/init.php:59
+msgid "Google+ URL"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/init.php:60
+msgid "LinkedIn URL"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/init.php:61
+msgid "Dribbble URL"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/init.php:62
+msgid "Pinterest URL"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/init.php:63
+msgid "Instagram URL"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/init.php:64
+msgid "Github URL"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/posts-tweaks.php:70
+msgid "About"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/posts-tweaks.php:116
+msgid "Related posts:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/tweaks.php:27
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/tweaks.php:53
+msgid "<i class=\"gicn gicn-leftarrow\"></i>"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/tweaks.php:54
+msgid "<i class=\"gicn gicn-rightarrow\"></i>"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/inc/tweaks.php:98
+msgid "Pages:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/tweaks.php:104
+msgid "Next page"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/tweaks.php:105
+msgid "Previous page"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets.php:12
+msgid "Main sidebar"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets.php:14
+msgid "The main blog sidebar."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets.php:23
+msgid "Footer 1"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets.php:25
+msgid "Widgets in this area are used in the first footer region."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets.php:34
+msgid "Footer 2"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets.php:36
+msgid "Widgets in this area are used in the second footer region."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets.php:45
+msgid "Footer 3"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets.php:47
+msgid "Widgets in this area are used in the third footer region."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/copyright.php:15
+msgid "Makron Copyright - Footer"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/copyright.php:16
+msgid "Your Copyright stuff. Add your logo and customize copyright content."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/copyright.php:51
+msgid "Copyright"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/copyright.php:61
+msgid "Your name/site name"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/copyright.php:66
+msgid " by aThemes"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/copyright.php:73
+#: Livingston\Dev\makron/inc/widgets/likebox.php:94
+#: Livingston\Dev\makron/inc/widgets/recent-posts.php:126
+msgid "Title:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/copyright.php:78
+msgid "Image:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/copyright.php:80
+msgid "Upload logo:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/copyright.php:84
+msgid "Copyright text:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/copyright.php:89
+msgid "Theme owner text:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:15
+msgid "Makron Likebox"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:18
+msgid "Simple Facebook Likebox for your sidebar"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:33
+#: Livingston\Dev\makron/inc/widgets/likebox.php:78
+msgid "Find me on Facebook"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:99
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:104
+msgid "Width:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:109
+msgid "Height:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:114
+msgid "Color Scheme"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:122
+msgid "Box background Color:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:127
+msgid "Box border Color:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:133
+msgid "Show faces"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:138
+msgid "Show stream"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/likebox.php:143
+msgid "Show header"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/recent-posts.php:15
+msgid "Makron Recent Posts"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/recent-posts.php:18
+msgid "A better recent posts widget for your sidebar."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/recent-posts.php:53
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/inc/widgets/recent-posts.php:131
+msgid "Number of posts to show:"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/sidebar.php:16
+msgid "There is no widgets yet. Add them in your admin panel."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie Livingston\Dev\makron/tag.php:18
+#, php-format
+msgid "Tags Archives: %s"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/templates/content-audio.php:59
+#: Livingston\Dev\makron/templates/content-gallery.php:68
+#: Livingston\Dev\makron/templates/content-image.php:67
+#: Livingston\Dev\makron/templates/content-link.php:53
+#: Livingston\Dev\makron/templates/content-status.php:69
+#: Livingston\Dev\makron/templates/content-video.php:62
+#: Livingston\Dev\makron/templates/content.php:74
+msgid " "
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/templates/content-audio.php:61
+#: Livingston\Dev\makron/templates/content-gallery.php:70
+#: Livingston\Dev\makron/templates/content-image.php:69
+#: Livingston\Dev\makron/templates/content-link.php:55
+#: Livingston\Dev\makron/templates/content-status.php:71
+#: Livingston\Dev\makron/templates/content-video.php:64
+#: Livingston\Dev\makron/templates/content.php:76
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/templates/content-audio.php:63
+#: Livingston\Dev\makron/templates/content-gallery.php:72
+#: Livingston\Dev\makron/templates/content-image.php:71
+#: Livingston\Dev\makron/templates/content-link.php:57
+#: Livingston\Dev\makron/templates/content-status.php:73
+#: Livingston\Dev\makron/templates/content-video.php:66
+#: Livingston\Dev\makron/templates/content.php:78
+msgid "No tags"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/templates/content-gallery.php:56
+#: Livingston\Dev\makron/templates/content-image.php:55
+#: Livingston\Dev\makron/templates/content-link.php:44
+#: Livingston\Dev\makron/templates/content-video.php:51
+msgid "Read more"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/templates/content-nope.php:12
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/templates/content-nope.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/templates/content.php:32
+msgid "Permalink to: "
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/templates/content.php:62
+msgid "Read more &raquo;"
+msgstr ""
+
+#: C:\Users\Manoz\Desktop\Work\Charlie
+#: Livingston\Dev\makron/templates/searchform.php:12
+msgid "Search..."
+msgstr ""
