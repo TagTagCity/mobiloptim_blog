@@ -39,7 +39,7 @@
 
 		.mak-inner{
 			text-align:center;
-			color:#FFF;
+			color:dark grey;
 			}
 
 		.banner{
