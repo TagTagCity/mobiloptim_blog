@@ -1,2 +1,5 @@
 #ignore wp-config.php
 wp-config.php
+
+#ignore cached files
+wp-content/cache/*
