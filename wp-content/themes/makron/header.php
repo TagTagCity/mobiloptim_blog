@@ -70,7 +70,7 @@
         <div class="mak-inner" style="height:120px;">
         <?php if( display_header_text() ) : ?>
             
-                <h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?><img src="http://blog.mobiloptim.com/wp-content/uploads/2015/02/logoblog1.png"/></a></h1>
+                <h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?><img src="http://ttcmobstoprdeuw.blob.core.windows.net/blog/2015/02/blog1.png"/></a></h1>
 </div>
 </div>
 <div class="deco"></div>
