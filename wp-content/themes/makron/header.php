@@ -15,6 +15,7 @@
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+<script type="text/javascript" src="https://mobiloptim.com/assets/mobiloptim-redirect.min.js" id="mobiloptim-redirection" data-url=bedandbrussels>
 
     <?php wp_head(); ?>
 
@@ -35,6 +36,8 @@
 			}
 		.site-title{
 			text-align:center;
+			height:150px;
+			
 			}
 
 		.mak-inner{
@@ -70,7 +73,7 @@
         <div class="mak-inner" style="height:120px;">
         <?php if( display_header_text() ) : ?>
             
-                <h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?><img src="http://ttcmobstoprdeuw.blob.core.windows.net/blog/2015/02/blog1.png"/></a></h1>
+                <h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?><img src="http://ttcmobstoprdeuw.blob.core.windows.net/blog/2015/02/blog.png" style="width:250px; height:150px;"/></a></h1>
 </div>
 </div>
 <div class="deco"></div>
